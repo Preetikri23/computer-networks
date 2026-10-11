@@ -1,4 +1,4 @@
-// CN LAB 06
+// CN LAB 06 ---- client.c
 
 #include <stdio.h>
 #include <stdlib.h>
