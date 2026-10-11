@@ -1,4 +1,7 @@
+// CN LAB 07 --- UDP CLIENT.C
+
 // Roll: 23105142007 Service Type: B d = 1
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
